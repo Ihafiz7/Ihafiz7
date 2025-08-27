@@ -60,9 +60,3 @@
 
 ### 📁 Project Structure (for GitHub workflows)
 
-```plaintext
-.github/
-└── workflows/
-    ├── pacman.yml
-    └── snake.yml
-README.md
